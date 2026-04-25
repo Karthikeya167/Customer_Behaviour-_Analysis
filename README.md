@@ -15,7 +15,7 @@ Aggregate Functions
 Analyze total customers, orders, and revenue
 Identify top customers by spending
 Find best-selling products and categories
-Monthly sales and growth trends
+Monthly sales and growth trends 
 Customer retention and repeat buyers
 Return and refund analysis
 Review sentiment analysis
